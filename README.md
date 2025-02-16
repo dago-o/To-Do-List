@@ -11,5 +11,5 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
 
 ## Technologies Used
 - HTML
-- CSS
+- Bootstrap
 - JavaScript
